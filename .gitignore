@@ -1,0 +1,12 @@
+build/*
+mdi/*
+.vscode/*
+driver/*
+lua_libs-api_v9_52X/*
+SmartThingsEdgeDrivers-apiv9_52/*
+
+# macOS Finder
+.DS_Store
+
+# Windows Explorer
+desktop.ini
