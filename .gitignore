@@ -5,6 +5,7 @@ driver/*
 lua_libs-api_v9_52X/*
 SmartThingsEdgeDrivers-apiv9_52/*
 SmartThingsEdgeDrivers-apiv11_54/*
+SmartThingsEdgeDrivers-apiv14/*
 
 # macOS Finder
 .DS_Store
