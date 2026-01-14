@@ -2,9 +2,11 @@ build/*
 mdi/*
 .vscode/*
 driver/*
-driver_0824/*
-driver_0920/*
-driver_0926/*
+driver_20250824/*
+driver_20250920/*
+driver_20250926/*
+driver_20251218/*
+driver_20260114/*
 lua_libs-api_v9_52X/*
 SmartThingsEdgeDrivers-apiv9_52/*
 SmartThingsEdgeDrivers-apiv11_54/*
