@@ -7,10 +7,13 @@ driver_20250920/*
 driver_20250926/*
 driver_20251218/*
 driver_20260114/*
+driver_old/*
+driver_refactor/*
 lua_libs-api_v9_52X/*
 SmartThingsEdgeDrivers-apiv9_52/*
 SmartThingsEdgeDrivers-apiv11_54/*
 SmartThingsEdgeDrivers-apiv14/*
+SmartThingsEdgeDrivers-apiv16_59/*
 
 # macOS Finder
 .DS_Store
